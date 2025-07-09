@@ -30,3 +30,9 @@
 1. Клонировать репозиторий:
 ```bash
 git clone https://github.com/theKerimKerimov/my_projects.git
+```
+
+2. Перейдите в папку с проектом:
+```bash
+cd my_projects/Анализ_резюме_из_HeadHunter
+```
