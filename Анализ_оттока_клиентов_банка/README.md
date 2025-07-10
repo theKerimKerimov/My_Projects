@@ -31,11 +31,11 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/theKerimKerimov/bank-churn-analysis.git
+    git clone https://github.com/theKerimKerimov/my_projects.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
-    cd bank-churn-analysis
+    cd my_projects/Анализ_оттока_клиентов_банка 
     ```
 3. Установите необходимые библиотеки:
     ```bash
