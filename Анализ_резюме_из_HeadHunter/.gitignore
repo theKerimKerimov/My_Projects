@@ -1,0 +1,19 @@
+# Игнорируем папку с данными
+data/
+
+# Игнорируем временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Игнорируем файлы Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Игнорируем настройки IDE
+.vscode/
+.idea/
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
